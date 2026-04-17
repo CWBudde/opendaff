@@ -1,4 +1,4 @@
-module github.com/MeKo-Tech/opendaff-go
+module github.com/cwbudde/opendaff-go
 
 go 1.21
 

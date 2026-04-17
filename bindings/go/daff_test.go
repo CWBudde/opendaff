@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/MeKo-Tech/opendaff-go"
+	"github.com/cwbudde/opendaff-go"
 )
 
 func Example() {
